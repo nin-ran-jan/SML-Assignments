@@ -24,6 +24,7 @@ b01 = 0.5
 b10 = 0.5
 b11 = 0.5
 
+
 def sigmoid(x):
     return 1/(1+np.exp**x)
 
